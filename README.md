@@ -36,10 +36,9 @@ it ends with a short verdict: does the change let the product speak for itself, 
 
 ## why
 
-the thinking behind it:
+**reference:** [the web is the product, not the pitch](https://mayeedwin.com/reads/the-web-is-the-product-not-the-pitch/)
 
-- [you can't market your way to quality](https://maye.pwafire.org/reads/you-cannot-market-your-way-to-quality/)
-- [the web is the product, not the pitch](https://maye.pwafire.org/reads/the-web-is-the-product-not-the-pitch/)
+also worth a read: [you can't market your way to quality](https://mayeedwin.com/reads/you-cannot-market-your-way-to-quality/)
 
 ## license
 
